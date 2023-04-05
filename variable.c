@@ -19,3 +19,4 @@ char : here we can store character like 'a', 'b', 'c', '@' etc
 bool : here we can store boolean value like true, false
 
 */
+
